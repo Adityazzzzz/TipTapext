@@ -1,0 +1,43 @@
+* {
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    margin-top: 2%;
+    align-items: center;
+    padding: 20px;
+}
+.colorpicker{
+    margin-Bottom: 10px;
+    display: flex;
+    align-Items: center;
+    gap: 10px;
+}
+.menubar{
+    padding: 5px 10px;
+    border: 2px solid rgb(101, 225, 76);
+    color:#fff;
+    background-color: rgb(101, 225, 76);
+    cursor: pointer;
+    border-Radius: 5px;
+}
+.editor{
+    border: 1px solid #0c0909;
+    background-color: white;
+    border-Radius: 5px;
+    min-Height: 200px;
+    padding: 10px;
+}
+.footstack{
+    margin-Top: 20px ;
+}
+.footnote1{
+    margin-Bottom: 10px;
+}
+.footnote2{
+    width: 100%;
+    padding: 8px;
+    border-Radius:4px;
+    margin-Top: 5px;
+}
